@@ -1,0 +1,7 @@
+sources:
+  "2023.03.29":
+    url:
+      - "https://github.com/ralna/spral/archive/refs/tags/v2023.03.29.tar.gz"
+    sha256: "0bcf1c1839f36e48e5435769ea757f2c0f45e7632edd612ca95edc8c4fa73afa"
+patches:
+  "2023.03.29": []
